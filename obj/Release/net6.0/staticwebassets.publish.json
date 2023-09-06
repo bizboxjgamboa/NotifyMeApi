@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "gPoTyQnCiZTVgVXXYzb6UIWmUkb0oatNxhIKmi7nAXk=",
+  "Source": "NotifyMeApi",
+  "BasePath": "_content/NotifyMeApi",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -1,0 +1,13 @@
+/Users/bizboxjohn/workspace-solutions/NotifyMeApi/obj/Release/net6.0/PubTmp/Out/NotifyMeApi
+/Users/bizboxjohn/workspace-solutions/NotifyMeApi/obj/Release/net6.0/PubTmp/Out/appsettings.Development.json
+/Users/bizboxjohn/workspace-solutions/NotifyMeApi/obj/Release/net6.0/PubTmp/Out/appsettings.json
+/Users/bizboxjohn/workspace-solutions/NotifyMeApi/obj/Release/net6.0/PubTmp/Out/NotifyMeApi.dll
+/Users/bizboxjohn/workspace-solutions/NotifyMeApi/obj/Release/net6.0/PubTmp/Out/NotifyMeApi.deps.json
+/Users/bizboxjohn/workspace-solutions/NotifyMeApi/obj/Release/net6.0/PubTmp/Out/NotifyMeApi.runtimeconfig.json
+/Users/bizboxjohn/workspace-solutions/NotifyMeApi/obj/Release/net6.0/PubTmp/Out/NotifyMeApi.pdb
+/Users/bizboxjohn/workspace-solutions/NotifyMeApi/obj/Release/net6.0/PubTmp/Out/Microsoft.Azure.NotificationHubs.dll
+/Users/bizboxjohn/workspace-solutions/NotifyMeApi/obj/Release/net6.0/PubTmp/Out/Microsoft.OpenApi.dll
+/Users/bizboxjohn/workspace-solutions/NotifyMeApi/obj/Release/net6.0/PubTmp/Out/Newtonsoft.Json.dll
+/Users/bizboxjohn/workspace-solutions/NotifyMeApi/obj/Release/net6.0/PubTmp/Out/Swashbuckle.AspNetCore.Swagger.dll
+/Users/bizboxjohn/workspace-solutions/NotifyMeApi/obj/Release/net6.0/PubTmp/Out/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/bizboxjohn/workspace-solutions/NotifyMeApi/obj/Release/net6.0/PubTmp/Out/Swashbuckle.AspNetCore.SwaggerUI.dll
