@@ -1,45 +1,42 @@
 ﻿<Properties StartupConfiguration="{A93CC7F9-C894-445C-8C79-05A3D7856F7C}|Default">
   <MonoDevelop.Ide.ItemProperties.NotifyMeApi PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.Workbench ActiveDocument="Program.cs">
     <Files>
       <File FileName="Authentication/ApiKeyAuthOptions.cs" />
       <File FileName="Authentication/ApiKeyAuthHandler.cs" />
       <File FileName="Authentication/ApiKeyAuthenticationBuilderExtensions.cs" />
-      <File FileName="Program.cs" Line="24" Column="44" />
+      <File FileName="Program.cs" Line="44" Column="1" />
       <File FileName="Models/PushTemplates.cs" />
       <File FileName="Models/DeviceInstallation.cs" />
       <File FileName="Models/NotificationRequest.cs" />
       <File FileName="Models/NotificationHubOptions.cs" />
       <File FileName="Services/INotificationService.cs" />
-      <File FileName="Services/NotificationHubsService.cs" Line="21" Column="24" />
+      <File FileName="Services/NotificationHubsService.cs" />
       <File FileName="appsettings.json" />
-      <File FileName="Controllers/NotificationsController.cs" Line="44" Column="46" />
+      <File FileName="Controllers/NotificationsController.cs" />
       <File FileName="Properties/launchSettings.json" />
       <File FileName="Properties/PublishProfiles/notifymeapiapp - Zip Deploy.pubxml" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="NotifyMeApi" expanded="True">
-            <Node name="NotifyMeApi" expanded="True">
+          <Node name="NotifyMeApi">
+            <Node name="NotifyMeApi">
               <Node name="Authentication" expanded="True" />
               <Node name="Controllers" expanded="True" />
               <Node name="Models" expanded="True" />
-              <Node name="Properties" expanded="True">
-                <Node name="PublishProfiles" expanded="True" />
-              </Node>
+              <Node name="Properties" expanded="True" />
               <Node name="Services" expanded="True" />
-              <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
 </Properties>
